@@ -2,6 +2,7 @@
 int main(){
   printf("Halo semuanya\n");
   printf("Perkenalkan saya Muhammad Alfi Fidia\n");
+  printf("Saya berasal dari Kabupaten Padang Pariaman\n");
   printf("Saya memiliki NIM 24343042\n");
   printf("Saya dari program studi Informatika");
   printf("Saya menempuh pendidikan di Universitas Negeri Padang\n");
